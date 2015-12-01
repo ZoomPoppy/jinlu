@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jinlu:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jinlu-1.0.0.RELEASE.war">
+      <element id="artifact" artifact-name="jinlu:war exploded" />
+    </root>
+  </artifact>
+</component>
